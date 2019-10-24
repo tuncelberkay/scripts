@@ -1,4 +1,5 @@
 #!/bin/bash
+
 for x in {101..110}
 do
         mac=$(printf "%02d" $(($x % 10)))
