@@ -1,6 +1,5 @@
 #!/bin/bash
 serverIp="xx.xx.xx.xx"
-
 for i in $(seq 0 $2)
 do
         if [ "$1" == "101" ]
