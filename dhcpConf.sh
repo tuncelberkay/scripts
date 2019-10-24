@@ -1,6 +1,9 @@
 #!/bin/bash
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 77ae21a866dab59f07b669394d6571d1c0a635c9
 for x in {101..110}
 do
         mac=$(printf "%02d" $(($x % 10)))
